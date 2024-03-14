@@ -1,3 +1,3 @@
 # CTF_InformacionPerdida
 
-Pues vas a tener que usar el parámetro correcto para poder encontrarla.
+flag{P_D3_P3d4z0_D3_Fl4g}
