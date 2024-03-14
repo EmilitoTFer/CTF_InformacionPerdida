@@ -1,3 +1,3 @@
 # CTF_InformacionPerdida
 
-Sé lo que estás buscando. ¿Quieres la flag?
+Pues vas a tener que usar el parámetro correcto para poder encontrarla.
